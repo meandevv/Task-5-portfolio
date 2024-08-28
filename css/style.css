@@ -109,12 +109,9 @@
   }
 
   .name .socials{
-    display: flex;
-    max-width: 20%;
-    margin: auto;
+    display: inline-flex;
     padding-top: 0.2rem;
-    justify-content: space-evenly;
-    gap: 2rem;
+    gap: 1.2rem;
   }
 
   .fa-brands{
@@ -695,6 +692,7 @@
    border: 1px solid var(--clr-grey);
    font-size: 13px;
    outline-color: var(--clr-orange);
+   transition: all 0.3s;
 }
 
 .form input:hover, textarea:hover{
