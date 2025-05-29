@@ -924,8 +924,8 @@
     font-size: 18px;
   }
 
-  .details .contact a, .details .contact a, .desc p{
-    font-size: 13px;
+  .details .contact p, .details .contact a, .desc p{
+    font-size: 10px;
   }
 
   .desc span{
