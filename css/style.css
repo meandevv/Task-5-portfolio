@@ -929,6 +929,7 @@
   }
 
   .details .contact .address {
+    bottom: unset;
     top: 2%;
   }
 
