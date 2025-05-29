@@ -140,14 +140,13 @@
   .details{
     width: 50%;
     display: flex;
-    font-size: 12px;
-    gap: 1rem;
+    flex-direction: column;
+    gap: 1.5rem;
     align-items: center;
   }
 
   .contact{
     display: flex;
-    flex-direction: column;
     gap: 2rem;
   }
 
@@ -155,9 +154,10 @@
     font-weight: 500;
   }
 
-  .details .contact a{
+  .details .contact a, .details .contact p{
       color: var(--clr-dark);
       text-decoration: none;
+      font-size: 13px;
   }
 
   .desc{
