@@ -925,7 +925,11 @@
   }
 
   .details .contact p, .details .contact a, .desc p{
-    font-size: 8px;
+    font-size: 10px;
+  }
+
+  .details .contact .address {
+    top: 2%;
   }
 
   .desc span{
