@@ -137,7 +137,7 @@
   }
 
   .details{
-    width: 100%;
+    width: 50%;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -152,7 +152,7 @@
   }
 
   .details .contact span{
-    font-wwighy: bold;
+    font-weight: 900;
   }
 
   .details .contact a, .details .contact p{
@@ -925,7 +925,7 @@
   }
 
   .details, .desc p{
-    font-size: 11px;
+    font-size: 13px;
   }
 
   .desc span{
