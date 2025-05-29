@@ -137,7 +137,7 @@
   }
 
   .details{
-    width: 50%;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -145,6 +145,7 @@
   }
 
   .contact{
+    width: 100%;
     display: flex;
     gap: 2rem;
     position: relative;
@@ -156,10 +157,11 @@
 
   .details .contact a, .details .contact p{
       position: absolute;
-      left: 30%;
+      left: 18%;
+      bottom: 0;
       color: var(--clr-dark);
       text-decoration: none;
-      font-size: 16px;
+      font-size: 18px;
   }
 
   .desc{
