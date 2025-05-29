@@ -140,8 +140,8 @@
   .details{
     width: 50%;
     display: flex;
-    font-size: 18px;
-    gap: 2rem;
+    font-size: 12px;
+    gap: 1rem;
     align-items: center;
   }
 
@@ -152,7 +152,12 @@
   }
 
   .contact span{
-    font-weight: 900;
+    font-weight: 500;
+  }
+
+  .contact a{
+      color: #000000;
+      text-decoration: none;
   }
 
   .desc{
