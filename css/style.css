@@ -152,7 +152,7 @@
   }
 
   .details .contact span{
-    color: #000000;
+    font-wwighy: bold;
   }
 
   .details .contact a, .details .contact p{
@@ -161,7 +161,7 @@
       bottom: 0;
       color: var(--clr-dark);
       text-decoration: none;
-      font-size: 11px;
+      font-size: 13px;
   }
 
   .desc{
