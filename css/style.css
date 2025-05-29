@@ -152,16 +152,16 @@
   }
 
   .details .contact span{
-    font-weight: 500;
+    font-weight: 900;
   }
 
   .details .contact a, .details .contact p{
       position: absolute;
-      left: 18%;
+      left: 20%;
       bottom: 0;
       color: var(--clr-dark);
       text-decoration: none;
-      font-size: 18px;
+      font-size: 13px;
   }
 
   .desc{
