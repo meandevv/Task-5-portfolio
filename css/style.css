@@ -160,7 +160,7 @@
       left: 30%;
       bottom: 0;
       color: var(--clr-dark);
-      font-size: 18px;
+      font-size: 15px;
   }
 
   .desc{
@@ -924,7 +924,7 @@
     font-size: 18px;
   }
 
-  .details, .desc p{
+  .details .contact a, .details .contact a, .desc p{
     font-size: 13px;
   }
 
